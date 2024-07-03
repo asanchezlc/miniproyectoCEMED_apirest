@@ -1,7 +1,4 @@
-.env
-.db
 .db-wal
 .db-shm
-sqldb/*.db
 sqldb/*.db-wal
 sqldb/*.db-shm
